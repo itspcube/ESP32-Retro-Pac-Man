@@ -1,12 +1,11 @@
 # 🕹️ ESP32 Retro Pac-Man
 
-Welcome to the **ESP32 Retro Pac-Man** project! This is a completely open-source, DIY hardware port of the classic arcade game running on an ESP32 microcontroller and a 1.3" OLED display.
+Welcome to the **ESP32 Retro Pac-Man** project! DIY hardware port of the classic arcade game running on an ESP32 microcontroller and a 1.3" OLED display.
 
 With sound effects, a fully playable ghost AI, smooth joystick controls, and a custom maze catalog, this project is perfect for makers, retro gaming fans, and anyone looking to learn about game development on embedded systems.
 
 ![Pac-Man Arcade](https://img.shields.io/badge/Game-Pac--Man-yellow?style=for-the-badge&logo=game-controller)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-ESP32-orange?style=for-the-badge&logo=platformio)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 ---
 
